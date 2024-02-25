@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node app/solid/index.ts "
+    "start": "ts-node app/solid/index.ts",
+    "build-pattern": "ts-node app/design-patters/build-pattern/index.ts"
   },
   "keywords": [],
   "author": "Arthur P L S Santos",
